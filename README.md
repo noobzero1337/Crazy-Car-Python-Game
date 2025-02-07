@@ -1,4 +1,5 @@
 # The Crazy Car
+Currently this game not in the final release, so just wait for a moment until the game has been builded.
 
 ## Documentation
 ![crazy-car-docs1](https://github.com/user-attachments/assets/cbc139e8-ddf9-4733-8fcd-1b087d70549d)
